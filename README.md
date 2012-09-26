@@ -1,4 +1,0 @@
-ganggang.sns
-============
-
-sns
